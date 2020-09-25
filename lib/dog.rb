@@ -1,5 +1,5 @@
 class Dog 
-  def name 
+  def initia (name)
 end
 
 
